@@ -1,5 +1,5 @@
 ---
 permalink: /
-title: "Home"
+title: "Welcome!"
 author_profile: true
 ---
