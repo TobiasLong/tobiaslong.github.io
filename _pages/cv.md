@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Physics with Theoretical Physics, University of Nottingam, 2018
+* MSc in Mathematical Medicine and Biology, University of Nottingham, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Assistant
+  * Sir Peter Mansfield Imaging Centre - University of Nottingham
+  * Project: Modelling SAR heating of the human head during UHF-MRI imaging
+  * Supervisor: Professor Penny Gowland, Professor Paul Glover
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * Condensed Matter Theory Group - University of Nottingham
+  * Project: Deep Learning applied to the Ising Model
+  * Supervisor: Professor Juan Garrahan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Experience: MATLAB, Python
 
 Publications
 ======
@@ -53,7 +47,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
