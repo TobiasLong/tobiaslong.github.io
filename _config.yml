@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Tobias Long"
 title_separator          : "-"
 name                     : &name "Tobias Long"
-description              : &description "Theoretical Physics PhD Student"
+description              : &description "Mechanical Engineering PhD Student"
 url                      : https://tobiaslong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tobiaslong.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tobias Long"
   avatar           : "profile.jpg"
-  bio              : "Theoretical Physics and Mathematical Biology graduate"
+  bio              : "Mechanical Engineering PhD Student // Theoretical Physics and Mathematical Biology Graduate"
   location         : "Lincolnshire, UK"
-  employer         :
+  employer         : University of Nottingham
   pubmed           : 
   googlescholar    : 
   email            : longtobias2@gmail.com
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Tobias_Long_"
+  twitter          :
   vine             :
   weibo            :
   xing             :
